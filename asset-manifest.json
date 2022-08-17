@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/caribeandoges/static/css/main.d1f48cc1.css",
-    "main.js": "/caribeandoges/static/js/main.d421e4fa.js",
-    "static/media/dogeP.png": "/caribeandoges/static/media/dogeP.f481982049ec14cef152.png",
-    "static/media/Jolly_Roger.png": "/caribeandoges/static/media/Jolly_Roger.4b381326519cab10e9f9.png",
-    "static/media/seabg.png": "/caribeandoges/static/media/seabg.5723c7048b972f74fadf.png",
-    "static/media/sworddoge.png": "/caribeandoges/static/media/sworddoge.56bafda9019861ad3f92.png",
-    "static/media/map.png": "/caribeandoges/static/media/map.e547a8b75feea4a7c8d4.png",
-    "static/media/graybg.png": "/caribeandoges/static/media/graybg.c264770a7758c49f3f52.png",
-    "static/media/treas1.png": "/caribeandoges/static/media/treas1.c4f6826f427101ee94bc.png",
-    "static/media/footerbg.png": "/caribeandoges/static/media/footerbg.ec50692a8b1312a66788.png",
-    "static/media/logowhite.png": "/caribeandoges/static/media/logowhite.44ee975d2f75fddfb6cf.png",
-    "static/media/logoblack.png": "/caribeandoges/static/media/logoblack.7ac53777f7da445a8de5.png",
-    "static/media/mapbg.png": "/caribeandoges/static/media/mapbg.5ae1134d23ca1bab953a.png",
-    "index.html": "/caribeandoges/index.html",
-    "static/media/twitter.svg": "/caribeandoges/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
-    "main.d1f48cc1.css.map": "/caribeandoges/static/css/main.d1f48cc1.css.map",
-    "main.d421e4fa.js.map": "/caribeandoges/static/js/main.d421e4fa.js.map"
+    "main.css": "/static/css/main.fdd18c8f.css",
+    "main.js": "/static/js/main.d193d1eb.js",
+    "static/media/dogeP.png": "/static/media/dogeP.f481982049ec14cef152.png",
+    "static/media/Jolly_Roger.png": "/static/media/Jolly_Roger.4b381326519cab10e9f9.png",
+    "static/media/seabg.png": "/static/media/seabg.5723c7048b972f74fadf.png",
+    "static/media/sworddoge.png": "/static/media/sworddoge.56bafda9019861ad3f92.png",
+    "static/media/map.png": "/static/media/map.e547a8b75feea4a7c8d4.png",
+    "static/media/graybg.png": "/static/media/graybg.c264770a7758c49f3f52.png",
+    "static/media/treas1.png": "/static/media/treas1.c4f6826f427101ee94bc.png",
+    "static/media/footerbg.png": "/static/media/footerbg.ec50692a8b1312a66788.png",
+    "static/media/logowhite.png": "/static/media/logowhite.44ee975d2f75fddfb6cf.png",
+    "static/media/logoblack.png": "/static/media/logoblack.7ac53777f7da445a8de5.png",
+    "static/media/mapbg.png": "/static/media/mapbg.5ae1134d23ca1bab953a.png",
+    "index.html": "/index.html",
+    "static/media/twitter.svg": "/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
+    "main.fdd18c8f.css.map": "/static/css/main.fdd18c8f.css.map",
+    "main.d193d1eb.js.map": "/static/js/main.d193d1eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1f48cc1.css",
-    "static/js/main.d421e4fa.js"
+    "static/css/main.fdd18c8f.css",
+    "static/js/main.d193d1eb.js"
   ]
 }
