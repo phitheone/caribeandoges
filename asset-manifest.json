@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/caribeandoges/static/css/main.d1f48cc1.css",
-    "main.js": "/caribeandoges/static/js/main.343b71ba.js",
+    "main.js": "/caribeandoges/static/js/main.d421e4fa.js",
     "static/media/dogeP.png": "/caribeandoges/static/media/dogeP.f481982049ec14cef152.png",
     "static/media/Jolly_Roger.png": "/caribeandoges/static/media/Jolly_Roger.4b381326519cab10e9f9.png",
     "static/media/seabg.png": "/caribeandoges/static/media/seabg.5723c7048b972f74fadf.png",
@@ -16,10 +16,10 @@
     "index.html": "/caribeandoges/index.html",
     "static/media/twitter.svg": "/caribeandoges/static/media/twitter.88145f5a5efc189af7c91e0ba0dede8e.svg",
     "main.d1f48cc1.css.map": "/caribeandoges/static/css/main.d1f48cc1.css.map",
-    "main.343b71ba.js.map": "/caribeandoges/static/js/main.343b71ba.js.map"
+    "main.d421e4fa.js.map": "/caribeandoges/static/js/main.d421e4fa.js.map"
   },
   "entrypoints": [
     "static/css/main.d1f48cc1.css",
-    "static/js/main.343b71ba.js"
+    "static/js/main.d421e4fa.js"
   ]
 }
